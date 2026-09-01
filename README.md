@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-
-<div style="display: flex;justify-content: center;align-items: center;">
+<body>
+   <div style="display: flex;justify-content: center;align-items: center;">
         <h1>Nicolas Avila</h1>
     </div>
     <div>
@@ -40,6 +40,7 @@
                 alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo" style="margin-top: 1%;"/>
             <p id="p1" style="margin-left: 1%;">Linux</p>
         </div>
+        <h3>E vem mais por aí 🔥</h3>
     </div>
     <div>
         <h3>Obrigado por visitar meu perfil</h3>
