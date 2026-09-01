@@ -12,15 +12,15 @@
     </div>
     <div>
         <ul>
-            <li>Atualmente cursando Desenvolvimento de Sistemas no Senai Rio Claro</li>
-            <li>Estudando Python e Web Development </li>
-            <li>Jogo no meu tempo livre</li>
+            <li>🎓Atualmente cursando Desenvolvimento de Sistemas no Senai Rio Claro</li>
+            <li>📚Estudando Python e Web Development </li>
+            <li>🎮Jogo no meu tempo livre</li>
             <li>Aberto ao novo</li>
             <li>Vivendo e SEMPRE evoluindo</li>
         </ul>
     </div>
     <div style="display: flex;flex-direction: column;">
-        <h2>Stacks</h2>
+        <h2>🛠️ Stacks</h2>
         <div class="display">
             <img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"
                 style="margin-top: 1%;" />
