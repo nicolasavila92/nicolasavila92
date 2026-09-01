@@ -15,8 +15,8 @@
             <li>🎓Atualmente cursando Desenvolvimento de Sistemas no Senai Rio Claro</li>
             <li>📚Estudando Python e Web Development </li>
             <li>🎮Jogo no meu tempo livre</li>
-            <li>Aberto ao novo</li>
-            <li>Vivendo e SEMPRE evoluindo</li>
+            <li>🚪Aberto ao novo</li>
+            <li>📈Vivendo e SEMPRE evoluindo</li>
         </ul>
     </div>
     <div style="display: flex;flex-direction: column;">
@@ -44,7 +44,7 @@
         <h3>E vem mais por aí 🔥</h3>
     </div>
     <div>
-        <h3>Obrigado por visitar meu perfil</h3>
+        <h3>Obrigado por visitar meu perfil!!!</h3>
     </div>
 </body>
 
