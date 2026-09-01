@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-   <div style="display: flex;justify-content: center;align-items: center;">
-        <h1>Nicolas Avila</h1>
+    <div style="display: flex;flex-direction: column;">
+        <h1>👋Olá, meu nome é Nicolas</h1>
+        <h2>Sobre mim</h2>
     </div>
     <div>
         <ul>
             <li>Atualmete cursando Desenvolvimento de Sistemas no Senai Rio Claro</li>
-            <li> Estudando Python e Web Development </li>
+            <li>Estudando Python e Web Development </li>
             <li>Jogo no meu tempo livre</li>
             <li>Aberto ao novo</li>
             <li>Vivendo e SEMPRE evoluindo</li>
@@ -46,5 +47,4 @@
         <h3>Obrigado por visitar meu perfil</h3>
     </div>
 </body>
-
 </html>
