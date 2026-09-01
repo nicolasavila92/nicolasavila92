@@ -37,8 +37,9 @@
             <p id="p1" style="margin-left: 2%;">CSS 3</p>
         </div>
     </div>
+    <div>
+        <h3>Obrigado por visitar meu perfil</h3>
+    </div>
 </body>
-
-</html>
 
 </html>
