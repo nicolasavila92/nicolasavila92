@@ -12,7 +12,7 @@
     </div>
     <div>
         <ul>
-            <li>Atualmete cursando Desenvolvimento de Sistemas no Senai Rio Claro</li>
+            <li>Atualmente cursando Desenvolvimento de Sistemas no Senai Rio Claro</li>
             <li>Estudando Python e Web Development </li>
             <li>Jogo no meu tempo livre</li>
             <li>Aberto ao novo</li>
@@ -47,4 +47,5 @@
         <h3>Obrigado por visitar meu perfil</h3>
     </div>
 </body>
+
 </html>
